@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Zimvo
 - 👀 I’m interested in application development, both native and web based
 - 🌱 I’m currently learning Android App development in Kotlin, just abondened Java
-- 💞️ I’m looking to collaborate on Android app development
+- 💞️ I’m looking to collaborate on mobile and web app development
 - 📫 How to reach me: email me - zimvo09@outlook.com
 
 <!---
