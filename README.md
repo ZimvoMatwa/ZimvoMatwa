@@ -14,9 +14,9 @@
 
 <img align="left" alt="python" src="https://www.logo.wine/a/logo/Python_(programming_language)/Python_(programming_language)-Logo.wine.svg" width="80rem"/>
 
-<img align="left" alt="Kotlin" src="https://www.logo.wine/a/logo/Kotlin_(programming_language)/Kotlin_(programming_language)-Logo.wine.svg" width="70rem"/> 
+<img align="left" alt="Kotlin" src="https://www.logo.wine/a/logo/Kotlin_(programming_language)/Kotlin_(programming_language)-Logo.wine.svg" width="65rem"/> 
 
-<img align="left" alt="Java" src="https://miro.medium.com/max/8642/1*iIXOmGDzrtTJmdwbn7cGMw.png" width="70rem"/>
+<img align="left" alt="Java" src="https://miro.medium.com/max/8642/1*iIXOmGDzrtTJmdwbn7cGMw.png" width="65rem"/>
 
 <!-- <img align="left" alt="androidDev" src="https://developer.android.com/studio/images/studio-icon-preview.svg" width="50rem"> -->
 
