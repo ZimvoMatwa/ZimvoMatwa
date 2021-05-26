@@ -59,7 +59,15 @@
 
 ---
 
-<img align="left" alt="me github stats" src="https://github-readme-stats.vercel.app/api?username=ZimvoMatwa&show_icons=true&hide_border=true&theme=cobalt"/>
+<i>NOTE: 'Most Used Languages' does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on my GitHub.</i>
+<br/>
+<a href="https://github.com/zimvomatwa">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ZimvoMatwa&show_icons=true&hide_border=true&theme=cobalt" />
+</a>
+<a href="https://github.com/azimvomatwa">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zimvomatwa" />
+</a>
+
 
 <!---
 ZimvoMatwa/ZimvoMatwa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
