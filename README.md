@@ -45,6 +45,7 @@
 <br/>
 <br/>
 
+---
 
 ### Busy, I have been
 <!-- BLOG-POST-LIST:START -->
@@ -54,6 +55,10 @@
 - [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
 - [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
 <!-- BLOG-POST-LIST:END -->
+
+---
+
+<img align="left" alt="me github stats" src="https://github-readme-stats.vercel.app/api?username=ZimvoMatwa&show_icons=true&hide_border=true"/>
 
 <!---
 ZimvoMatwa/ZimvoMatwa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
