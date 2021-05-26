@@ -12,23 +12,24 @@
 
 <img align="center" alt="welcome" src="https://eudaimonia-dev.github.io/expectations.jpg"/>
 
-<img align="left" alt="python" src="https://www.logo.wine/a/logo/Python_(programming_language)/Python_(programming_language)-Logo.wine.svg" width="80rem"/>
+<img align="left" alt="python" src="https://cdn.iconscout.com/icon/free/png-64/python-2-226051.png" width="40rem"/>
 
-<img align="left" alt="Kotlin" src="https://www.logo.wine/a/logo/Kotlin_(programming_language)/Kotlin_(programming_language)-Logo.wine.svg" width="65rem"/> 
+<img align="left" alt="Kotlin" src="https://cdn.iconscout.com/icon/free/png-64/kotlin-3628881-3030021.png" width="40rem"/> 
 
 <img align="left" alt="Java" src="https://miro.medium.com/max/8642/1*iIXOmGDzrtTJmdwbn7cGMw.png" width="65rem"/>
+<!-- https://cdn.iconscout.com/icon/free/png-64/java-58-1174951.png -->
 
-<!-- <img align="left" alt="androidDev" src="https://developer.android.com/studio/images/studio-icon-preview.svg" width="50rem"> -->
+<img align="left" alt="androidDev" src="https://developer.android.com/studio/images/studio-icon-preview.svg" width="40rem">
 
 <!-- <img align="left" alt="androidDev" src="https://www.logo.wine/a/logo/Microsoft_Excel/Microsoft_Excel-Logo.wine.svg" width="70rem"> -->
 
 <!-- <img align="left" alt="androidDev" src="https://www.logo.wine/a/logo/JetBrains/JetBrains-Logo.wine.svg" width="70rem"> -->
 
-<img align="left" alt="androidDev" src="https://www.logo.wine/a/logo/GitHub/GitHub-Logo.wine.svg" width="70rem">
+<img align="left" alt="androidDev" src="https://cdn.iconscout.com/icon/free/png-64/github-163-761603.png" width="40rem">
 
-<img align="left" alt="androidDev" src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg" width="70rem">
+<img align="left" alt="androidDev" src="https://cdn.iconscout.com/icon/free/png-64/mysql-3521596-2945040.png" width="40rem">
 
-<img align="left" alt="androidDev" src="https://www.logo.wine/a/logo/PostgreSQL/PostgreSQL-Logo.wine.svg" width="70rem">
+<img align="left" alt="androidDev" src="https://cdn.iconscout.com/icon/free/png-64/postgresql-226047.png" width="40rem">
 
 <img align="left" alt="androidDev" src="https://cdn.iconscout.com/icon/free/png-64/html-3628838-3030115.png" width="35rem">
 
@@ -36,7 +37,7 @@
 
 <img align="left" alt="androidDev" src="https://cdn.iconscout.com/icon/free/png-64/javascript-1-225993.png" width="35rem">
 
-<!-- <img align="left" alt="androidDev" src="https://cdn.iconscout.com/icon/free/png-64/visual-studio-code-3251603-2724650.png" width="35rem"> -->
+<img align="left" alt="androidDev" src="https://cdn.iconscout.com/icon/free/png-64/visual-studio-code-3251603-2724650.png" width="35rem">
 
 <img align="left" alt="androidDev" src="https://cdn.iconscout.com/icon/free/png-64/ubuntu-3521777-2945275.png" width="35rem">
 
