@@ -42,7 +42,7 @@
 
 <img align="left" alt="androidDev" src="https://cdn.iconscout.com/icon/free/png-64/figma-2296071-1912030.png" width="40rem">
 
-
+<br/>
 <br/>
 
 
@@ -59,7 +59,7 @@
 
 ---
 
-<img align="left" alt="me github stats" src="https://github-readme-stats.vercel.app/api?username=ZimvoMatwa&show_icons=true&hide_border=true"/>
+<img align="left" alt="me github stats" src="https://github-readme-stats.vercel.app/api?username=ZimvoMatwa&show_icons=true&hide_border=true&theme=cobalt"/>
 
 <!---
 ZimvoMatwa/ZimvoMatwa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
