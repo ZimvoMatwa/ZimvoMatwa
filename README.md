@@ -7,19 +7,40 @@
 - 🤷🏽‍♂️️ My hobby is spreading misinformation on the internet; stay off the internet kids!
 - 📫 You got something you want to say to me? say it to my face, or email me zimvo09@outlook.com, I'm also on [LinkedIn](https://www.linkedin.com/in/zimvo-matwa-703955176/)...
 <br/>
+
 ### Languages and Tools
-<i>is it me or are Jetbrains IDEs lighter than VSCODE?</i>
+
 <img align="center" alt="welcome" src="https://eudaimonia-dev.github.io/expectations.jpg"/>
 
-<img alt="python" src="https://www.cvitnigeria.com/wp-content/uploads/2017/08/newpythonlogo.png" width="50rem"/> ```Python```
-<br/>
-<img alt="Kotlin" width="50rem" src="https://miro.medium.com/max/1100/1*YQgmKR1B9Pf58frRdGqMyA.jpeg"/> ```Kotlin```
-<br/>
-<img alt="web" src="https://res.cloudinary.com/practicaldev/image/fetch/s--1Udov0n---/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/d9taiqwp0968js9hcn5u.png" width="50rem" /> ```Web Dev (HTML, CSS & JS)```
-<br/>
-<img alt="SQL" src="https://bs-uploads.toptal.io/blackfish-uploads/blog/post/seo/og_image_file/og_image/15493/0712-Bad_Practices_in_Database_Design_-_Are_You_Making_These_Mistakes_Dan_Social-754bc73011e057dc76e55a44a954e0c3.png" width="50rem"/> ```Relational (postgres, mySQL & MS Access) and non-relation (Google Sheets & MS Excel)```
-<br/>
-<img alt="java" src="https://miro.medium.com/max/8642/1*iIXOmGDzrtTJmdwbn7cGMw.png" width="50rem"> ```Java```
+<img align="left" alt="python" src="https://www.logo.wine/a/logo/Python_(programming_language)/Python_(programming_language)-Logo.wine.svg" width="80rem"/>
+
+<img align="left" alt="Kotlin" src="https://www.logo.wine/a/logo/Kotlin_(programming_language)/Kotlin_(programming_language)-Logo.wine.svg" width="70rem"/> 
+
+<img align="left" alt="Java" src="https://miro.medium.com/max/8642/1*iIXOmGDzrtTJmdwbn7cGMw.png" width="70rem"/>
+
+<!-- <img align="left" alt="androidDev" src="https://developer.android.com/studio/images/studio-icon-preview.svg" width="50rem"> -->
+
+<!-- <img align="left" alt="androidDev" src="https://www.logo.wine/a/logo/Microsoft_Excel/Microsoft_Excel-Logo.wine.svg" width="70rem"> -->
+
+<!-- <img align="left" alt="androidDev" src="https://www.logo.wine/a/logo/JetBrains/JetBrains-Logo.wine.svg" width="70rem"> -->
+
+<img align="left" alt="androidDev" src="https://www.logo.wine/a/logo/GitHub/GitHub-Logo.wine.svg" width="70rem">
+
+<img align="left" alt="androidDev" src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg" width="70rem">
+
+<img align="left" alt="androidDev" src="https://www.logo.wine/a/logo/PostgreSQL/PostgreSQL-Logo.wine.svg" width="70rem">
+
+<img align="left" alt="androidDev" src="https://cdn.iconscout.com/icon/free/png-64/html-3628838-3030115.png" width="35rem">
+
+<img align="left" alt="androidDev" src="https://cdn.iconscout.com/icon/free/png-64/css-131-722685.png" width="35rem">
+
+<img align="left" alt="androidDev" src="https://cdn.iconscout.com/icon/free/png-64/javascript-1-225993.png" width="35rem">
+
+<img align="left" alt="androidDev" src="https://cdn.iconscout.com/icon/free/png-64/visual-studio-code-3251603-2724650.png" width="35rem">
+
+<img align="left" alt="androidDev" src="https://cdn.iconscout.com/icon/free/png-64/ubuntu-3521777-2945275.png" width="35rem">
+
+<img align="left" alt="androidDev" src="https://cdn.iconscout.com/icon/free/png-64/figma-2296071-1912030.png" width="40rem">
 
 <!---
 ZimvoMatwa/ZimvoMatwa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
