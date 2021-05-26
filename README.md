@@ -45,7 +45,6 @@
 <br/>
 <br/>
 
----
 
 ### Busy, I have been
 <!-- BLOG-POST-LIST:START -->
