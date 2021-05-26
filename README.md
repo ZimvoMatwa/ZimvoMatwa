@@ -36,7 +36,7 @@
 
 <img align="left" alt="androidDev" src="https://cdn.iconscout.com/icon/free/png-64/javascript-1-225993.png" width="35rem">
 
-<img align="left" alt="androidDev" src="https://cdn.iconscout.com/icon/free/png-64/visual-studio-code-3251603-2724650.png" width="35rem">
+<!-- <img align="left" alt="androidDev" src="https://cdn.iconscout.com/icon/free/png-64/visual-studio-code-3251603-2724650.png" width="35rem"> -->
 
 <img align="left" alt="androidDev" src="https://cdn.iconscout.com/icon/free/png-64/ubuntu-3521777-2945275.png" width="35rem">
 
