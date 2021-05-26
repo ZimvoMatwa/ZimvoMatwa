@@ -3,7 +3,7 @@
 ## I'm Zimvo, a Junior self-taught developer
 - 👋 Hi, I’m Zimvo and I make software go brrrrr
 - 👀 I’m really keen on making mobile and web apps, and I do dable on data wizardry as well
-- 👨🏽‍💻️ Currently learning Kotlin/Android Dev, and polishing my Python
+- 👨🏽‍💻️ Currently learning Kotlin/Android Dev, and polishing my Python...
 - 🤷🏽‍♂️️ My hobby is spreading misinformation on the internet; stay off the internet kids!
 - 📫 You got something you want to say to me? say it to my face, or email me zimvo09@outlook.com, I'm also on [LinkedIn](https://www.linkedin.com/in/zimvo-matwa-703955176/)...
 <br/>
@@ -41,8 +41,6 @@
 <img align="left" alt="androidDev" src="https://cdn.iconscout.com/icon/free/png-64/ubuntu-3521777-2945275.png" width="35rem">
 
 <img align="left" alt="androidDev" src="https://cdn.iconscout.com/icon/free/png-64/figma-2296071-1912030.png" width="40rem">
-
-<br/>
 
 ---
 
