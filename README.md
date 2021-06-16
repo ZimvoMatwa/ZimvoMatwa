@@ -10,7 +10,9 @@
 
 ### Languages and Tools
 
+<p align="center">
 <img align="center" alt="welcome" src="https://eudaimonia-dev.github.io/expectations.jpg"/>
+</p>
 
 <img align="left" alt="python" src="https://cdn.iconscout.com/icon/free/png-64/python-2-226051.png" width="35rem"/>
 
@@ -42,7 +44,6 @@
 <img align="left" alt="androidDev" src="https://cdn.iconscout.com/icon/free/png-64/ubuntu-3521777-2945275.png" width="35rem">
 
 <img align="left" alt="androidDev" src="https://cdn.iconscout.com/icon/free/png-64/figma-2296071-1912030.png" width="40rem">
-
 
 <br/>
 <br/>
