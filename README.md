@@ -67,7 +67,7 @@
 <a href="https://github.com/zimvomatwa">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ZimvoMatwa&show_icons=true&hide_border=true&theme=cobalt" />
 </a>
-<a href="https://github.com/azimvomatwa">
+<a href="https://github.com/zimvomatwa">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zimvomatwa" />
 </a>
 
