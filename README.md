@@ -10,9 +10,9 @@
 
 ### Languages and Tools
 
-<p align="center">
+<!-- <p align="center"> -->
 <img align="center" alt="welcome" src="https://eudaimonia-dev.github.io/expectations.jpg"/>
-</p>
+<!-- </p> -->
 
 <img align="left" alt="python" src="https://cdn.iconscout.com/icon/free/png-64/python-2-226051.png" width="35rem"/>
 
