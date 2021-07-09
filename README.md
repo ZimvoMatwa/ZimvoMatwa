@@ -53,8 +53,8 @@
 
 ### Snippet of me studies
 <!-- BLOG-POST-LIST:START -->
-- [Flutter for beginners - stful & stless widgets, and routes](https://flutter.dev/docs/development/) 20% COMPLETE: IN PROGRESS
-- [Microinteractions: Password Validation Animation](https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012) 25% COMPLETE: ON HOLD
+- [Flutter for Beginners - stful & stless widgets, and routes](https://flutter.dev/docs/development/) 20% COMPLETE: IN PROGRESS
+- [Developing Android Apps With Kotlin](https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012) 25% COMPLETE: ON HOLD
 - [Web Dev Bootcamp: HTML, CSS, JS, Node...](https://www.udemy.com/course/the-web-developer-bootcamp/) 10% COMPLETE: ON HOLD
 - [Business Intelligence Analyst Course](https://www.udemy.com/course/the-business-intelligence-analyst-course-2018/) 50% COMPLETE: ON HOLD
 - [Web Development Basics: HTML & CSS](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/) 100% COMPLETE: BUILT PROJECTS
