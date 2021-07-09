@@ -51,18 +51,19 @@
 
 <!-- --- -->
 
-<!-- ### Busy, I have been -->
-<!-- BLOG-POST-LIST:START -->
-- [How To Pass Application Tracking Systems (ATS) & Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
-<!-- BLOG-POST-LIST:END -->
+### Snippet of me studies
+BLOG-POST-LIST:START
+- [Flutter for beginners - stful & stless widgets, and routes](https://flutter.dev/docs/development/) 20% COMPLETE: IN PROGRESS
+- [Microinteractions: Password Validation Animation](https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012) 25% COMPLETE: ON HOLD
+- [Web Dev Bootcamp: HTML, CSS, JS, Node...](https://www.udemy.com/course/the-web-developer-bootcamp/) 10% COMPLETE: ON HOLD
+- [Business Intelligence Analyst Course](https://www.udemy.com/course/the-business-intelligence-analyst-course-2018/) 50% COMPLETE: ON HOLD
+- [Web Development Basics: HTML & CSS](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/) 100% COMPLETE: BUILT PROJECTS
+- [Python & Numpys Complete Course](https://www.udemy.com/course/complete-python-bootcamp/) 100% COMPLETE: BUILT PROJECTS
+BLOG-POST-LIST:END
 
 ---
 
-<i>NOTE: 'Most Used Languages' does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on my GitHub.</i>
+<i>NOTE: 'Most Used Languages' does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most activity on my GitHub for that year.</i>
 <br/>
 <a href="https://github.com/zimvomatwa">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ZimvoMatwa&show_icons=true&hide_border=true&theme=cobalt" />
