@@ -19,7 +19,7 @@
 <img align="left" alt="Java" src="https://miro.medium.com/max/8642/1*iIXOmGDzrtTJmdwbn7cGMw.png" width="65rem"/>
 <!-- https://cdn.iconscout.com/icon/free/png-64/java-58-1174951.png -->
 
-<img align="left" alt="androidDev" src="https://developer.android.com/studio/images/studio-icon-preview.svg" width="35rem">
+<img align="left" alt="androidDev" src="https://cdn.iconscout.com/icon/free/png-256/firebase-3628772-3030134.png" width="35rem">
 
 <!-- <img align="left" alt="androidDev" src="https://www.logo.wine/a/logo/Microsoft_Excel/Microsoft_Excel-Logo.wine.svg" width="70rem"> -->
 
